@@ -6,7 +6,6 @@
 ## Technologies 
 ### ===================
 ## Java
-
 #### EDUCATIONAL PURPOSE ONLY
 
 
